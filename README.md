@@ -1,6 +1,6 @@
 # create-svelte
 
-benin mmukabanah 659821
+benin mukabanah 659821
 nyagucha sting 662366
 Ken Kimiri 662541
 
