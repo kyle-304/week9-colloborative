@@ -1,5 +1,9 @@
 # create-svelte
 
+benin mmukabanah 659821
+nyagucha sting 662366
+Ken Kimiri 662541
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
